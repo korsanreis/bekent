@@ -1,0 +1,28 @@
+GET https://bekent2.vercel.app/educations/
+Accept: application/json
+
+<> 2023-10-29T234000.200.json
+
+###
+
+GET https://bekent1.onrender.com/educations/
+Accept: application/json
+
+<> 2023-10-29T023647.200.json
+
+###
+
+GET https://bekent.onrender.com/educations/
+Accept: application/json
+
+<> 2023-10-29T022723.404.txt
+
+###
+
+GET https://bekent.onrender.com/educations/
+Accept: application/json
+
+<> 2023-10-29T022705.404.txt
+
+###
+

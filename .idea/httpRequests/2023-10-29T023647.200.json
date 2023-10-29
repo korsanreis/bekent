@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "62f021a95fb826908e4faf6f",
+    "title": "Primarschule",
+    "school": "Kazım Karabekir İ.Ö.O.",
+    "city": "İstanbul/Bahçelievler",
+    "startDate": "1994-09-07T20:33:53.000Z",
+    "endDate": "1999-05-29T19:44:57.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "62f0225d08f0100120872dfa",
+    "title": "Oberschule",
+    "school": "Cumhuriyet Anadolu Lisesi",
+    "city": "İstanbul/Bahçelievler",
+    "startDate": "1999-09-06T21:00:00.000Z",
+    "endDate": "2004-05-30T19:44:57.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "62f022cc08f0100120872dfc",
+    "title": "Assoziierter Abschluss",
+    "school": "Adalet M.Y.O., İstanbul Üniversitesi",
+    "city": "İstanbul",
+    "startDate": "2018-09-09T21:00:00.000Z",
+    "endDate": "2021-05-31T19:44:57.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "62f0236f2cfd98ab01028553",
+    "title": "Bachelor-Abschluss",
+    "school": "İşletme, İstanbul Üniversitesi",
+    "city": "İstanbul",
+    "startDate": "2022-09-09T21:00:00.000Z",
+    "endDate": null,
+    "__v": 0
+  }
+]
